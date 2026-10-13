@@ -1,2 +1,2 @@
 # practice.css
-lrean to css
+learn to css
